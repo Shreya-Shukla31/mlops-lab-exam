@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/HP/Downloads/Devops%20and%20mlops/mlruns/0/models/m-9e5df196b2dc4b48a354b26be7cb0f3d/artifacts
+creation_timestamp: 1770937827573
+experiment_id: '0'
+last_updated_timestamp: 1770937867253
+model_id: m-9e5df196b2dc4b48a354b26be7cb0f3d
+model_type: null
+name: model
+source_run_id: 22e76dd901654464b7074217babb1a65
+status: 2
+status_message: null

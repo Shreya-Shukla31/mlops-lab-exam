@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/Downloads/Devops%20and%20mlops/mlruns/0/228842d1a4634da4af6cc079a926420a/artifacts
+end_time: 1770937657220
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 228842d1a4634da4af6cc079a926420a
+run_name: crawling-mare-557
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770937657007
+status: 3
+tags: []
+user_id: HP
